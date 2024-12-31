@@ -1,5 +1,5 @@
 ### Olá! Eu sou Cesar Augusto 👋.
-#### Sou um entusiasta da área de desenvolvimento back-end. Estudo no SENAI há quase 1 ano, onde venho me dedicando ao aprendizado de tecnologias e conceitos essenciais para o desenvolvimento de aplicações robustas e escaláveis.
+#### Sou um entusiasta da área de desenvolvimento back-end. Estudo no SENAI, onde venho me dedicando ao aprendizado de tecnologias e conceitos essenciais para o desenvolvimento de aplicações robustas e escaláveis.
 #### Com foco no crescimento contínuo, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir com soluções inovadoras no mundo do back-end.
 
 ##
