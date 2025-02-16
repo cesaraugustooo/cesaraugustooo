@@ -3,6 +3,9 @@
 #### Com foco no crescimento contínuo, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir com soluções inovadoras no mundo do back-end.
 
 ##
+<div align="center">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustooo&layout=compact&title_color=0d7400&text_color=ff91a4&bg_color=0d1117&cache_seconds=1000" />
+</div>
 
 ### As minhas redes sociais são:
 
