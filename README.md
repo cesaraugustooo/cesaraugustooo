@@ -3,6 +3,7 @@
 #### Com foco no crescimento contínuo, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir com soluções inovadoras no mundo do back-end.
 
 ##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustooo&layout=donut&theme=dark)](https://github.com/ooaoJ)
 
 ### As minhas redes sociais são:
 
