@@ -10,7 +10,7 @@ Com foco no crescimento contínuo, estou sempre em busca de novos desafios para 
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustooo&layout=donut&theme=dark&hide=html&cache_seconds=60"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustooo&layout=donut&theme=dark&hide=html,blade&cache_seconds=60"/>
 </div>
 
 ---
