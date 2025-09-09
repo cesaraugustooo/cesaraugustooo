@@ -23,28 +23,15 @@ Sou entusiasta de <strong>desenvolvimento back-end</strong> e estudo no <strong>
 
 ## 💻 Tecnologias
 
-### Back-end
-<p align="center">
-  <img src="https://img.icons8.com/color/96/python--v1.png" width="64" alt="Python"/>&nbsp;
-<img src="https://img.shields.io/badge/Laravel-F9532F?style=for-the-badge&logo=laravel&logoColor=white" width="96" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>&nbsp;
-  <img src="https://img.icons8.com/officel/96/php-logo.png" width="64" alt="PHP"/>&nbsp;
-  <img src="https://img.icons8.com/fluency/96/mysql-logo.png" width="64" alt="MySQL"/>&nbsp;
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="64" alt="Postman"/>
-</p>
+<h3>Desenvolvimento BackEnd </h3>
 
-### Controle de versão & Servidores
-<p align="center">
-  <img src="https://img.icons8.com/color/96/git.png" width="64" alt="Git"/>&nbsp;
-  <img src="https://img.icons8.com/color/96/github--v1.png" width="64" alt="GitHub"/>&nbsp;
-  <img src="https://img.icons8.com/color/96/linux--v1.png" width="64" alt="Linux"/>&nbsp;
-  <img src="https://img.icons8.com/color/96/apache.png" width="64" alt="Apache"/>
-</p>
+![My Skills](https://skillicons.dev/icons?i=php,laravel,fastapi,py,postman,mysql,postgres)
 
-### Front-end & Outras
-<p align="center">
-  <img src="https://img.icons8.com/color/96/html-5--v1.png" width="64" alt="HTML5"/>&nbsp;
-  <img src="https://img.icons8.com/color/96/css3.png" width="64" alt="CSS3"/>&nbsp;
-  <img src="https://img.icons8.com/color/96/bootstrap--v2.png" width="64" alt="Bootstrap"/>&nbsp;
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" width="64" alt="React"/>&nbsp;
-</p>
+<h3>Vercionamento e servidores</h3>
+
+![My Skills](https://skillicons.dev/icons?i=linux,git,github)
+
+<h3>Outras habilidades</h3>
+
+![My Skills](https://skillicons.dev/icons?i=html,js,css,bootstrap,react,debian,vite&perline=7)
+
