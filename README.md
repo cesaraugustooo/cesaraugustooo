@@ -9,8 +9,13 @@ Sou entusiasta de <strong>desenvolvimento back-end</strong> e estudo no <strong>
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustooo&layout=donut&theme=dark&hide=html,blade&cache_seconds=60"/>
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustooo&layout=donut&theme=dark&hide=html,blade&cache_seconds=60)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cesaraugustooo&show_icons=true&theme=dark)
+
+
 </div>
+
 
 ---
 
