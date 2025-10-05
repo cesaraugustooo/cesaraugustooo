@@ -19,13 +19,6 @@ Sou entusiasta de <strong>desenvolvimento back-end</strong> e estudo no <strong>
 
 ---
 
-### 🌐 Conecte-se comigo
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-
----
-
 ## 💻 Tecnologias
 
 <h3>Desenvolvimento BackEnd </h3>
