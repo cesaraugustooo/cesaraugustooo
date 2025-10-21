@@ -23,7 +23,7 @@ Sou entusiasta de <strong>desenvolvimento back-end</strong> e estudo no <strong>
 
 <h3>Desenvolvimento BackEnd </h3>
 
-![My Skills](https://skillicons.dev/icons?i=php,laravel,py,fastapi,nodejs,postman,mysql,postgres)
+![My Skills](https://skillicons.dev/icons?i=php,laravel,py,fastapi,nodejs,postman,mysql,postgres,redis)
 
 
 <h3>Vercionamento e servidores</h3>
