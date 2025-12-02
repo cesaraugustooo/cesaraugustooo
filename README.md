@@ -34,3 +34,16 @@ Sou entusiasta de <strong>desenvolvimento back-end</strong> e estudo no <strong>
 
 ![My Skills](https://skillicons.dev/icons?i=html,js,css,bootstrap,react,debian,vite&perline=7)
 
+
+## 📬 Contato
+
+<div align="left">
+  
+📎 <strong>LinkedIn:</strong>  
+<a href="www.linkedin.com/in/
+cesar-esquiçacto-559064314
+" target="_blank">
+  www.linkedin.com/in/cesar-esquiçacto-559064314
+</a>
+
+</div>
