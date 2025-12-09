@@ -2,8 +2,7 @@
 
 <p align="center">
 Desenvolvedor <strong>Back-End</strong> com foco em criar soluções <strong>robustas, escaláveis e bem estruturadas</strong>.  
-Atualmente curso <strong>Técnico em Desenvolvimento de Sistemas (SENAI)</strong> e estou iniciando <strong>ADS (UNOESTE – 2026)</strong>.  
-Apaixonado por arquitetura de software, APIs REST, boas práticas e clean code.
+Atualmente curso <strong>Técnico em Desenvolvimento de Sistemas (SENAI)</strong>
 </p>
 
 ---
