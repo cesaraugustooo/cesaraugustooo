@@ -93,6 +93,4 @@ Meu objetivo é atuar como **Desenvolvedor Backend**, aplicando engenharia de so
 
 ---
 
-<p align="center">
-Feito com dedicação ❤️ e sempre buscando evolução constante.
-</p>
+
