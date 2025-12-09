@@ -16,7 +16,7 @@ Meu objetivo é atuar como **Desenvolvedor Backend**, aplicando engenharia de so
 
 ---
 
-## 📊 Estatísticas (Estáveis)
+## 📊 Estatísticas 
 
 <div align="center">
 
