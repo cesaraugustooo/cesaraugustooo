@@ -57,16 +57,6 @@ Meu objetivo é atuar como **Desenvolvedor Backend**, aplicando engenharia de so
 
 ---
 
-## 📚 Cursos Relevantes
-
-- Desvendando o 5G – SENAI  
-- Web 3.0 – SENAI  
-- Privacidade e Proteção de Dados (LGPD)  
-- Soft Skills – SESI  
-- Economia Circular – SENAI  
-- Segurança no Trabalho – SENAI  
-
----
 
 ## 📬 Contato
 
