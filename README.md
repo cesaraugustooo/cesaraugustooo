@@ -16,20 +16,11 @@ Meu objetivo é atuar como **Desenvolvedor Backend**, aplicando engenharia de so
 
 ---
 
-## 📊 Estatísticas 
 
 <div align="center">
 
 <!-- Linguagens (via Profile Summary Cards) -->
-<img width="45%" src="https://raw.githubusercontent.com/cesaraugustooo/cesaraugustooo/master/profile-summary-card-output/dracula/2-most-commit-language.svg" />
-
-<!-- Detalhes -->
-<img width="45%" src="https://raw.githubusercontent.com/cesaraugustooo/cesaraugustooo/master/profile-summary-card-output/dracula/0-profile-details.svg" />
-
-<br><br>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=cesaraugustooo&theme=dracula&margin-w=10&no-frame=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustooo&layout=compact&hide_border=true&hide=html,blade&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
 
 </div>
 
