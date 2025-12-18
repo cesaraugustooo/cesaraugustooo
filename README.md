@@ -52,7 +52,8 @@ Meu objetivo é atuar como **Desenvolvedor Backend**, aplicando engenharia de so
 
 ## 🎓 Formação
 
-- **Técnico em Desenvolvimento de Sistemas – SENAI (2023–2025)**  
+- **Técnico em Desenvolvimento de Sistemas – SENAI (2023–2025)**
+- 🏅 Aluno Destaque do curso, reconhecido pelo desempenho técnico, comprometimento e excelência acadêmica.
 - **Análise e Desenvolvimento de Sistemas – UNOESTE (início 01/2026)**
 
 ---
