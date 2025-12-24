@@ -29,7 +29,7 @@ Meu objetivo é atuar como **Desenvolvedor Backend**, aplicando engenharia de so
 ## 🧠 Tecnologias & Ferramentas
 
 ### 🔧 Back-end
-![Skills](https://skillicons.dev/icons?i=php,laravel,py,fastapi,nodejs,postman,mysql,postgres,redis)
+![Skills](https://skillicons.dev/icons?i=php,laravel,py,fastapi,nodejs,prisma,postman,mysql,postgres,redis)
 
 ### 🌐 Front-end
 ![Skills](https://skillicons.dev/icons?i=html,js,css,bootstrap,react,debian,vite&perline=7)
