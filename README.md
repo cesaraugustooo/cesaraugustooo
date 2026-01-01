@@ -29,13 +29,21 @@ Meu objetivo é atuar como **Desenvolvedor Backend**, aplicando engenharia de so
 ## 🧠 Tecnologias & Ferramentas
 
 ### 🔧 Back-end
-![Skills](https://skillicons.dev/icons?i=php,laravel,py,fastapi,nodejs,prisma,postman,mysql,postgres,redis)
+![Skills](https://skillicons.dev/icons?i=php,laravel,py,fastapi,nodejs,express)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" />
+
+
+### 📀 Database
+![Skills](https://skillicons.dev/icons?i=mysql,redis,postgres,prisma)
+
+### 🧰 Ferramentas
+![Skills](https://skillicons.dev/icons?i=postman,vscode)
 
 ### 🌐 Front-end
 ![Skills](https://skillicons.dev/icons?i=html,js,css,bootstrap,react,vite&perline=7)
 
 ### 🛠️ DevOps, Versionamento & SO
-![Skills](https://skillicons.dev/icons?i=linux,git,github,debian)
+![Skills](https://skillicons.dev/icons?i=linux,git,github,debian,azure)
 ![Skills](https://skillicons.dev/icons?i=docker)
 
 ---
