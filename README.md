@@ -32,10 +32,10 @@ Meu objetivo é atuar como **Desenvolvedor Backend**, aplicando engenharia de so
 ![Skills](https://skillicons.dev/icons?i=php,laravel,py,fastapi,nodejs,prisma,postman,mysql,postgres,redis)
 
 ### 🌐 Front-end
-![Skills](https://skillicons.dev/icons?i=html,js,css,bootstrap,react,debian,vite&perline=7)
+![Skills](https://skillicons.dev/icons?i=html,js,css,bootstrap,react,vite&perline=7)
 
 ### 🛠️ DevOps, Versionamento & SO
-![Skills](https://skillicons.dev/icons?i=linux,git,github)
+![Skills](https://skillicons.dev/icons?i=linux,git,github,debian)
 ![Skills](https://skillicons.dev/icons?i=docker)
 
 ---
