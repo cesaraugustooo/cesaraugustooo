@@ -7,7 +7,7 @@ Desenvolvedor <strong>Back-End</strong>, <strong>Tecnico em Desenvolvimento de S
 ---
 
 ## 🚀 Sobre mim
-Sou um desenvolvedor com foco em back-end, especializado em **Laravel, PHP, Python, FastAPI,Node.js, Express.js e REST APIs**.  
+Sou um desenvolvedor com foco em back-end, especializado em **Laravel, PHP, Python, FastAPI, Node.js, Express.js e REST APIs**.  
 Minha base técnica inclui também **Docker, bancos relacionais, Redis** e conhecimentos sólidos em **HTML, CSS, JavaScript e React**, permitindo entender toda a stack de uma aplicação.
 
 Busco sempre evoluir por meio de desafios técnicos, estudos contínuos e participação em projetos reais com impacto.  
