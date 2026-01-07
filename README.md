@@ -1,14 +1,13 @@
 <h1 align="center">👋 Olá! Eu sou o Cesar Augusto</h1>
 
 <p align="center">
-Desenvolvedor <strong>Back-End</strong> com foco em criar soluções <strong>robustas, escaláveis e bem estruturadas</strong>.  
-Atualmente curso <strong>Técnico em Desenvolvimento de Sistemas (SENAI)</strong> e estou iniciando <strong>ADS (UNOESTE – 2026)</strong>.  
+Desenvolvedor <strong>Back-End</strong>, <strong>Tecnico em Desenvolvimento de Sistemas</strong> 
 </p>
 
 ---
 
 ## 🚀 Sobre mim
-Sou um desenvolvedor com foco em back-end, especializado em **Laravel, PHP, Python, FastAPI e REST APIs**.  
+Sou um desenvolvedor com foco em back-end, especializado em **Laravel, PHP, Python, FastAPI,Node.js, Express.js e REST APIs**.  
 Minha base técnica inclui também **Docker, bancos relacionais, Redis** e conhecimentos sólidos em **HTML, CSS, JavaScript e React**, permitindo entender toda a stack de uma aplicação.
 
 Busco sempre evoluir por meio de desafios técnicos, estudos contínuos e participação em projetos reais com impacto.  
