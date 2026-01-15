@@ -4,7 +4,7 @@
 Desenvolvedor <strong>Back-End</strong>, <strong>Tecnico em Desenvolvimento de Sistemas</strong> 
 </p>
 
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/cesaraugustooo?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 ---
 
 ## 🏅 Experiências
