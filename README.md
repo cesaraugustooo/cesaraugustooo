@@ -53,7 +53,6 @@ Desenvolvedor <strong>Back-End</strong>, <strong>Tecnico em Desenvolvimento de S
 <div align="center">
 
 <!-- Linguagens (via Profile Summary Cards) -->
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustooo&layout=compact&hide_border=true&hide=html,blade&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
 
 </div>
 
