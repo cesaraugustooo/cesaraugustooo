@@ -22,7 +22,7 @@ Desenvolvedor <strong>Back-End</strong>, <strong>Tecnico em Desenvolvimento de S
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cesaraugustooo&theme=github_dark&exclude=HTML,css"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cesaraugustooo&theme=github_dark&exclude=HTML,css,Blade"
     alt="Most Commit Language"
   />
 </p>
