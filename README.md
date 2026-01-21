@@ -61,7 +61,7 @@ Desenvolvedor <strong>Back-End</strong>, <strong>Tecnico em Desenvolvimento de S
 ## 🧠 Tecnologias & Ferramentas
 
 ### 🔧 Back-end
-![Skills](https://skillicons.dev/icons?i=php,laravel,py,fastapi,nodejs,express)
+![Skills](https://skillicons.dev/icons?i=php,laravel,py,fastapi,nodejs,express,typescript)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" />
 
 
