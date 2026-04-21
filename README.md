@@ -7,7 +7,7 @@ Desenvolvedor <strong>Back-End</strong>, <strong>Tecnico em Desenvolvimento de S
 <p align="center">
   <a href="https://git.io/awesome-stats-card">
     <img
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/cesaraugustooo?cardType=level&theme=dark&preferLogin=false"
+      src="https://streak-stats.demolab.com/?user=cesaraugustooo&theme=dark"
       alt="GitHub Stats"
     />
   </a>
